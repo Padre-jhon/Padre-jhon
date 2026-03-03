@@ -27,8 +27,11 @@
   <img src="https://img.shields.io/badge/_jhon_♡-purple?style=for-the-badge&logo=github&logoColor=white&labelColor=6a0dad&color=9370db" />
 </div>
 
+
+<div align="center"> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark&quote=First%2C%20solve%20the%20problem.%20Then%2C%20write%20the%20code.&author=John%20Johnson" /> </div></details>
 <br>
 <br>
+
 
 ## 📊 **GitHub Analytics**
 
@@ -43,6 +46,8 @@
   <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=Padre-jhon&custom_title=Jhon's%20Contribution%20Graph&bg_color=0D1117&color=9b59b6&line=9b59b6&point=9370db&area=true&area_color=6a0dad&hide_border=true" />
 </div>
 
+<div align="center"> <img src="https://streak-stats.demolab.com/?user=Padre-jhon&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9b59b6&ring=9b59b6&fire=9370db&currStreakNum=fff&sideNums=fff&currStreakLabel=9b59b6&sideLabels=9b59b6&dates=9370db" /> 
+</div>
 <br>
 
 ## 🛠️ **Tech Stack & Tools**
@@ -71,7 +76,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=Padre-jhon&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" />
 </div>
 
-<br>
+<div align="center"> <table> <tr> <td align="center">✅</td> <td><b>Complete 5 games projects</b></td> </tr> <tr> <td align="center">🔄</td> <td><b>create a game engine</b></td> </tr> <tr> <td align="center">📚</td> <td><b>Learn C# & Engine Unity</b></td> </tr> <tr> <td align="center">🏆</td> <td><b>Participate in Gamejams</b></td> </tr> </table> </div>
 
 ## 📈 **Weekly Development Breakdown**
 

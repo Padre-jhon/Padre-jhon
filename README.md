@@ -3,7 +3,7 @@
 <br>
 
 <div align="center">
-  <img align="center" height="180" src="https://imgur.com/aXIQLp8.png" />
+  <img align="center" height="400" src="https://i.imgur.com/vV0LnzQ_d.webp?maxwidth=760&fidelity=grand" alt="Spirituality" />
 </div>
 
 <div align="center">
@@ -18,9 +18,8 @@
 </div>
 
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=900&lines=👩‍💻+Analysis+and+Systems+Development+Student;🎨+UX%2FUI+Designer;🌍+From+Brazil;💜+Passionate+about+technology+and+design;🚀+Always+learning+new+technologies" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A020F0&center=true&vCenter=true&width=900&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+game+and++Development+Student;%F0%9F%8E%A8+UX%2FUI+Designer;%F0%9F%8C%8D+From+Brazil;%F0%9F%92%9C+Passionate+about+technology+and+design;%F0%9F%9A%80+Always+learning+new+technologies" alt="Typing SVG"/>
 </div>
-
 <br>
 
 <div align="center">
@@ -35,11 +34,12 @@
 
 ## 📊 **GitHub Analytics**
 
+<!-- GitHub Stats Temporariamente Desativados 🚧
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Padre-jhon&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=9b59b6&icon_color=9b59b6&text_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Padre-jhon&layout=compact&langs_count=10&theme=midnight-purple&border_radius=10&hide_border=true&bg_color=0D1117&title_color=9b59b6&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kamillyvm&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117&title_color=9b59b6&icon_color=9b59b6&text_color=fff"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kamillyvm&layout=compact&langs_count=10&theme=midnight-purple&border_radius=10&hide_border=true&bg_color=0D1117&title_color=9b59b6&text_color=fff"/>
 </div>
-
+-->
 <br>
 
 <div align="center">
@@ -49,6 +49,10 @@
 <div align="center"> <img src="https://streak-stats.demolab.com/?user=Padre-jhon&theme=midnight-purple&hide_border=true&background=0D1117&stroke=9b59b6&ring=9b59b6&fire=9370db&currStreakNum=fff&sideNums=fff&currStreakLabel=9b59b6&sideLabels=9b59b6&dates=9370db" /> 
 </div>
 <br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Padre-jhon/Padre-jhon/output/snake.svg" alt="Snake animation" />
+</div>
 
 ## 🛠️ **Tech Stack & Tools**
 
@@ -72,9 +76,11 @@
 
 ## 🏆 **GitHub Achievements**
 
+<!-- TROFÉUS DO GITHUB - Temporariamente indisponíveis (serviço externo fora do ar) 🔧
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Padre-jhon&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=kamillyvm&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15&no-bg=true" />
 </div>
+-->
 
 <div align="center"> <table> <tr> <td align="center">✅</td> <td><b>Complete 5 games projects</b></td> </tr> <tr> <td align="center">🔄</td> <td><b>create a game engine</b></td> </tr> <tr> <td align="center">📚</td> <td><b>Learn C# & Engine Unity</b></td> </tr> <tr> <td align="center">🏆</td> <td><b>Participate in Gamejams</b></td> </tr> </table> </div>
 

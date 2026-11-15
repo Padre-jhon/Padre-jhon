@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,9,12&section=header&text=Padre%20jhon&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20universe&descAlignY=50&descSize=15"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=6,9,12&section=header&text=Jhon%20Son&fontSize=30&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=Welcome%20to%20my%20universe&descAlignY=50&descSize=15"/>
 
 <br>
 
@@ -9,7 +9,7 @@
 <div align="center">
   <samp>
     <h1>
-      <b>`⚡ Padre jhon⚡`</b>
+      <b>`⚡ Jhonson ⚡`</b>
     </h1>
     <h3>
       <i> Game Developer & Designer | Games Development Student</i>
